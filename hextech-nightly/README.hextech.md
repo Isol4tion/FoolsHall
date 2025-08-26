@@ -81,3 +81,6 @@ HexTech-nightly的保护工作堪称艺术。
 
 NoWhisper: 所有工作。
 
+# PS：我们会在1~2天内发布HexTech-nightly的Remap版本(Renamer还原)，请继续关注本仓库！
+
+
