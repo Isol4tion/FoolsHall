@@ -6,9 +6,9 @@ Collection of retarded skids.
 
 ## Client Library
 
-| Name | Introduction | Author | Secure Evaluation |
-| :--- | ------------ | ------ | ----------------- |
-|      |              |        |                   |
+| Name                                                 | Introduction           | Author           | Secure Evaluation(0~10) |
+| :--------------------------------------------------- | ---------------------- | ---------------- | ----------------------- |
+| [HexTech-nightly](hextech-nightly/README.hextech.md) | bad skid of everything | 7XED & XiaoCi233 | "1" The One             |
 
 ## Contribution
 
