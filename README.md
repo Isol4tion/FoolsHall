@@ -9,7 +9,7 @@ Collection of retarded skids.
 | Name                                                 | Introduction           | Author           | Secure Evaluation(0~10) |
 | :--------------------------------------------------- | ---------------------- | ---------------- | ----------------------- |
 | [HexTech-nightly](hextech-nightly/README.hextech.md) | bad skid of everything | 7XED & XiaoCi233 | "1" The One             |
-| [XiaoTim8](XiaoTim/README.xiaotim.md)                | idk             | idk           | idk           |
+| [XiaoTim8](XiaoTim/README.xiaotim.md)                | chatgpt-generated code | idk              | "3" chatgpt verify      |
 
 ## Contribution
 
@@ -24,3 +24,4 @@ Collection of retarded skids.
 ## Thanks
 
 Thank you to all the client developers who have provided programs for this repository. You have brought us endless fun. You are truly the greatest founders of FoolsHall🙏.
+
